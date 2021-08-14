@@ -1,0 +1,3 @@
+[submodule "mixed/pdtp"]
+	path = mixed/pdtp
+	url = https://github.com/aso2101/prakrit_texts
