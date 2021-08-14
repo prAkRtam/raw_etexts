@@ -1,5 +1,5 @@
 ## Intro
-A repository containing important raw texts (some non-proofread). Processed (eg: transliterated) texts may be placed in other repos/ sites.
+A repository containing important Prakrit raw texts (some non-proofread). Processed (eg: transliterated) texts may be placed in other repos/ sites.
 
 "raw" in raw_etexts means "mostly unencoded" text files (and not binary files like doc or pdf or rtf), whose contents may be searched by (say) grep. This means that we prefer files whose formatting (if any) does not interfere much with search.
 
