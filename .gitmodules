@@ -1,3 +1,6 @@
 [submodule "mixed/pdtp"]
 	path = mixed/pdtp
 	url = https://github.com/aso2101/prakrit_texts
+[submodule "mixed/ollett-lexicons"]
+	path = mixed/ollett-lexicons
+	url = https://github.com/aso2101/prakrit_lexicons.git
